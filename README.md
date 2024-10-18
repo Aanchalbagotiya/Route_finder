@@ -1,0 +1,1 @@
+This project features a robust shortest route finder that efficiently calculates the optimal path between two or more points using Dijkstra's algorithm. With an intuitive interface and real-time mapping capabilities, users can easily visualize their journey and make informed navigation decisions.
